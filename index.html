@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda - Contatos</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <header>
+    </header>
+    <div class="container">
+        <div class="menu-box">
+            <h1>Agenda Telefônica</h1>
+            <h3>Digite o telefone e o nome do contato</h3>
+            <form id="form-contato">
+                <input type="text" required id="input-contato" placeholder="Nome do contato:"/>
+                <input type="tell" maxlength="11" id="input-numero" placeholder="Número:" required />
+                <button>Add+</button>
+            </form>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Nome</th>
+                        <th>Contato</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td>Contatos adicionados</td>
+                        <td id="qtd-contato"><span>0</span></td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
