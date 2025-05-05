@@ -1,3 +1,14 @@
-### Atividade do Módulo: Projeto 2 / EBAC - FrontEnd Developer
+## Atividade do módulo Projeto 2 para praticar e aprender sobre o JavaScript. 
+### Curso Front End Developer - EBAC 
 
-#### O projeto criado foi uma agenda telefônica para os usuários salvarem seus contatos.   
+Foi confeccionado uma agenda telefônica para os usuários salvarem seus contatos. Consiste em:
+ 
+> Uma validação dos contatos adicionados para se caso tiver algum repetido;
+
+> 2 campos de Input: 1 para preencher o nome do contato e o outro para o número de telefone;
+
+> Um botão para adicionar os contatos;
+
+#### Criação desse README é apenas para resumir o que foi feito e para um melhor entendimento do que se trata o repositório.
+
+##### Link Vercel: 
