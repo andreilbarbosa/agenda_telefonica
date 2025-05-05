@@ -9,6 +9,8 @@ Foi confeccionado uma agenda telefônica para os usuários salvarem seus contato
 
 > Um botão para adicionar os contatos;
 
+> No final é mostrado quantos contatos foram salvos; 
+
 #### Criação desse README é apenas para resumir o que foi feito e para um melhor entendimento do que se trata o repositório.
 
-##### Link Vercel: 
+##### Link Vercel: https://projeto-2-agenda-contatos-tau.vercel.app
