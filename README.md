@@ -1,7 +1,7 @@
-## Atividade do módulo Projeto 2 para praticar e aprender sobre o JavaScript. 
+## Projeto de criação de uma Agenda telefônica 📞.
 ### Curso Front End Developer - EBAC 
 
-Foi confeccionado uma agenda telefônica para os usuários salvarem seus contatos. Consiste em:
+Atividade do módulo Projeto 2 para praticar e aprender sobre o JavaScript. Foi confeccionado uma agenda telefônica para os usuários salvarem seus contatos. Consiste em:
  
 > Uma validação dos contatos adicionados para se caso tiver algum repetido;
 
